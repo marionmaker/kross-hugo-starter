@@ -113,6 +113,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: "/images/logo-urgo.png"
+    URL: https://urgomedical.fr/
   - logo: "/images/sgs_logo-svg.png"
     URL: https://www.sgsgroup.fr/
   - logo: "/images/logo_3jj.png"
