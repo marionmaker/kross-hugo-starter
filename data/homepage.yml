@@ -113,6 +113,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: images/logo-3JJ
+    URL: ''
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-2.png
