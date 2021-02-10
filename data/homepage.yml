@@ -114,7 +114,7 @@ clients_logo_slider:
   enable: true
   item:
   - logo: "/images/logo_3jj.png"
-    URL: "/images/logo_3jj.png"
+    URL: https://www.jjsbf.fr/
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-2.png
