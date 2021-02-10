@@ -113,6 +113,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: "/images/hanesbrands-inc.png"
+    URL: https://hanescareers.com/
   - logo: "/images/logo-urgo.png"
     URL: https://urgomedical.fr/
   - logo: "/images/sgs_logo-svg.png"
