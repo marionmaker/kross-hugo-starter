@@ -8,7 +8,7 @@ about:
     Web School) de Rouen.
   button:
     enable: true
-    label: know more
+    label: Me connaître
     URL: about
 skill:
   enable: true
